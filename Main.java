@@ -4,9 +4,9 @@ public class Main {
         Pelmeni p = new Pelmeni("Пельмени Сибирские", "350", "9");
         Kotleta k = new Kotleta("Котлеты куриные", "280", "7");
         People s = new People("Анпилов Алексей  Владимирович", 26, "Программист");
-        Teacher t= new Teacher("Никитин А. Н.", 53, "Директор школы");
-        Student asanov = new Student("Цапулина П. Л. ", 19, "Председатель студсовета");
-        Pocupatel kipishinov = new Pocupatel("Буженина", "510", "10", "Лазарев К. И", 21, "Системный администратор");
+        Teacher i= new Teacher("Никитин А. Н.", 53, "Директор школы");
+        Student ii= new Student("Цапулина П. Л. ", 19, "Председатель студсовета");
+        Pocupatel iii= new Pocupatel("Буженина", "510", "10", "Лазарев К. И", 21, "Системный администратор");
 
     }
 }
